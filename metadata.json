@@ -1,0 +1,6 @@
+{
+  "name": "호수 둘레 일차방정식 시뮬레이터",
+  "description": "중학교 1학년 일차방정식 활용(거리·속력·시간 호수 둘레 트랙 문제)을 시각적으로 탐구하고 이해하는 인터랙티브 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
